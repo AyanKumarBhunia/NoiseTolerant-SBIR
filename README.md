@@ -22,8 +22,11 @@ strokes. Selected stroke subset is then rasterized and fed through an existing p
 
 ## Examples 
 ![Framework](./images/fig3.JPG)
+**Figure:** Examples showing selected subset performing better (rank in box) than complete sketch from ShoeV2.
+
+
 ![Framework](./images/fig4.JPG)
-<!-- **Figure:** Qualitative results on our photo-to-sketch generation process, where sketch is shown with attention-map at progressive instances. -->
+**Figure:**  Examples showing ability to perform (rank in box) under synthetic noisy sketch input on ShoeV2.
 
 
 ## Citation
