@@ -44,4 +44,9 @@ year = {2022}
 ## Work done at [SketchX Lab](http://sketchx.ai/), CVSSP, University of Surrey. 
 
 
-
+## Please check our other papers appearing in CVPR-2022 
+```
+* Sketch-Based Few-shot Incremental Learning
+* Partial SBIR
+* Sketch3T: Test-Time Training for Zero-Shot SBIR
+```
